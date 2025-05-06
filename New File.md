@@ -14,3 +14,6 @@ This is a link to [Youtube](https://www.youtube.com)
 
 ### Section 3
 Go to [Section 2](#section-1)
+
+- [!IMPORTANT]
+* Friendly reminder!
